@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/symphonyvsts-training/clint_devops_training/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/symphonyvsts-training/clint_devops_training/_build/latest?definitionId=473&branchName=main)
 
 # Contributing
 
